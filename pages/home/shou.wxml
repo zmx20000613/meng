@@ -1,0 +1,52 @@
+<view>
+   <image src="/image/a.jpg" class="img"></image>
+</view>
+<view class="box">
+    <text class="meng">梦欣</text>
+    
+    <view class="box1">
+        <text class="shou">手机</text>
+        <text class="shou">17337727155</text>
+        <button class="but1">拨打</button>
+    </view>
+
+    <view class="box1">
+        <text class="shou">邮箱</text>
+        <text class="shou">2057159483@qq.com</text>
+        <button class="but2">复制</button>
+    </view>
+   
+    <view class="box1">
+        <text class="shou">职业</text>
+        <text class="shou">Web前端工程师</text>
+        <button class="but3">复制</button>
+    </view>
+    
+
+
+</view>
+
+<view class="box2">
+    <view>
+       <image src="/image/b.png" class="img1"></image>
+       <text class="txt">生成海报</text>
+    </view>
+
+     <view>
+       <image src="/image/c.png" class="img1"></image>
+       <text class="txt">保存电话</text>
+    </view>
+
+     <view>
+       <image src="/image/d.png" class="img1"></image>
+       <text class="txt">分享好友</text>
+    </view>
+ </view>
+
+
+
+<view class="txt1">Add me yo：</view>
+<view class="box3">
+
+    <image src="/image/h.png" class="img2"></image>
+</view>       

@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/shou",
+    "pages/xiang/mu",
+    "pages/jian/li"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "positon": "bottom",
+    "list": [
+     
+      {
+        "pagePath": "pages/home/shou",
+        "text": "名片",
+        "selectedIconPath": "image/e.png",
+        "iconPath":"image/e.png"
+      },
+      {
+        "pagePath": "pages/xiang/mu",
+        "text": "项目",
+        "selectedIconPath": "image/f.png",
+        "iconPath": "image/f.png"
+      },
+      {
+        "pagePath": "pages/jian/li",
+        "text": "简历",
+        "selectedIconPath": "image/g.png",
+        "iconPath": "image/g.png"
+      
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

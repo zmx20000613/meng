@@ -1,0 +1,45 @@
+/* pages/jian/li.wxss */
+.box{
+  width: 100%;
+  height: 450rpx;
+  
+
+}
+.img{
+  width: 100%;
+  height: 100%;
+
+}
+.box1{
+  width: 85%;
+  height: 650rpx;
+   background: white;
+  box-shadow: darkgrey 0rpx 0rpx 10rpx 5rpx ;
+  left: 62rpx;
+  position: absolute;
+  top: 330rpx;
+}
+.box2{
+  width: 93%;
+  height: 600rpx;
+  /* border: 1rpx solid red; */
+  margin-top: 35rpx;
+  margin-left: 50rpx;
+}
+.box3{
+  border-bottom: 1rpx solid #999999;
+  width: 100%;
+  height: 100rpx;
+  border-left: 1rpx solid yellowgreen;
+  margin-top: 30rpx;
+  }
+  .txt{
+    font-size: 25rpx;
+    color: #666666;
+    margin-left: 56rpx;
+    margin-top: 25rpx;
+  }
+  .txt1{
+    margin-top: 20rpx;
+    font-size: 30rpx;
+  }

@@ -1,0 +1,83 @@
+/* pages/home/shou.wxss */
+.img{
+  width: 100%;
+  height: 500rpx;
+  
+}
+.box{
+  width: 85%;
+  height: 350rpx;
+  background: white;
+  box-shadow: darkgrey 0rpx 0rpx 10rpx 5rpx ;
+  left: 62rpx;
+  position: absolute;
+  top: 330rpx;
+
+}
+.meng{
+  font-size: 40rpx;
+  margin-left: 15rpx;
+ 
+  font-weight: 700;
+}
+.box1{
+  display: flex;
+  justify-content:space-around;
+  margin-top: 30rpx;
+}
+.but1{
+  font-size: 25rpx;
+  margin-left: 151rpx;
+}
+.but2{
+  font-size: 25rpx;
+   float: right;
+}
+.but3{
+  font-size: 25rpx;
+   margin-left: 130rpx;
+ }
+.shou{
+  font-size: 28rpx;
+  color: #999999;
+  margin-left: 60rpx;
+}
+.box2{
+  width: 100%;
+  height: 200rpx;
+ 
+  margin-top: 230rpx;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.img1{
+  width: 120rpx;
+  height: 120rpx;
+  display: block;
+  margin-top: 20rpx;
+}
+.txt{
+   font-size: 26rpx;
+   margin-top: 20rpx;
+   display: block;
+   margin-left: 10rpx;
+}
+.box3{
+  width: 220rpx;
+  height: 220rpx;
+  margin: 0 auto;
+ 
+  margin-top: 30rpx;
+
+}
+.img2{
+  width: 100%;
+  height: 100%;
+}
+.txt1{
+  margin-left: 114rpx;
+  margin-top: 45rpx;
+  color: #999999;
+  font-size: 28rpx;
+}

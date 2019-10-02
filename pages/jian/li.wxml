@@ -1,0 +1,32 @@
+<view class="box">
+  
+  <image src="/image/a.jpg" class="img"></image>
+
+</view>
+
+<view class="box1">
+    <view class="box2">
+       <text class="txt1">工作经历</text>
+       <view class="box3">
+           <view class="txt">2018.03</view>
+           <view class="txt">河南辰豪信息科技有限公司</view>
+       </view>
+     <view class="box3">
+           <view class="txt">2016.10-2017.10</view>
+           <view class="txt">河南辰豪信息科技有限公司</view>
+       </view>
+
+       <text class="txt1">教育经历</text>
+       <view class="box3">
+           <view class="txt">2012.09-2016.07</view>
+           <view class="txt">河南农业大学</view>
+       </view>
+     <view class="box3">
+           <view class="txt">2009.09-2012.06</view>
+           <view class="txt">邓州二高</view>
+       </view>
+    </view>
+
+    
+
+</view>
