@@ -1,0 +1,75 @@
+<view class="box">
+ 
+ <view class="box1">
+     <view class="cont">
+     <view class="txt">
+      "日志版"：主要介绍了一些技巧，经验，职责等，可以让用户更清楚的知道一些岗位要求和技巧等
+     </view>
+        
+     </view>
+ </view>
+
+ <view class="box2">
+   <text>我的岗位职责？</text>
+   <view class="cont">
+      <view class="txt1">
+      
+         1. 承担Web前端核心模块的设计，对代码质量进度负责          
+      </view>
+      <view class="txt1">
+         2.对公司的产品提出用户界面，和用户体验方面的合理要求
+      </view>
+      <view class="txt1">
+         3.与UI设计师和后台程序配合，高效的完成页面效果
+      </view>
+      <view class="txt1">
+         4.解决主流浏览器的兼容问题
+      </view>
+   </view>
+ </view>
+
+ <view class="box3">
+       <text>商品列表</text>
+   <view class="cont">
+      <view class="txt1">用户可以找到自己喜欢的商品</view>
+      <image src="/image/n.png" class="img2"></image>
+        
+   </view>
+ 
+ </view>
+
+ <view class="box3">
+       <text>收货订单</text>
+   <view class="cont">
+      <view class="txt1">添加收货地址，新增地址</view>
+       <image src="/image/k.png" class="img2"></image>
+       <image src="/image/i.png" class="img2"></image>
+   </view>
+ 
+ </view>
+
+
+ <view class="box3">
+       <text>确认订单</text>
+   <view class="cont">
+      <view class="txt1">添加购物车确认支付就可以下单啦！</view>
+       <image src="/image/l.png" class="img2"></image>
+       
+   </view>
+ 
+ </view>
+
+<view class="box2">
+ <text>开发技巧？</text>
+ <view class="cont">
+       <view class="txt1">
+         完成公司团队任务工作目标的前提下，配合产品，设计师，测试和后端人员协调开发，深入了解业务体系，更进一步的提升技术能力
+                  
+      </view>
+ </view>
+</view>
+
+</view>
+
+
+

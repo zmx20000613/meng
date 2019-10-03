@@ -1,2 +1,13 @@
-<!--pages/xiang/mu.wxml-->
-<text>pages/xiang/mu.wxml</text>
+
+<view class="box1">
+
+ 
+<view class="box" >
+   <image src="/image/m.png" class="img" bindtap="dian"></image>
+</view>
+ 
+  <view class="box2">
+    日志版
+  </view>
+  <view class="box3">技术、技巧、经验、岗位职责、类文章</view>
+ </view>

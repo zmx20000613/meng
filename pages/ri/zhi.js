@@ -1,4 +1,4 @@
-// pages/xiang/mu.js
+// pages/ri/zhi.js
 Page({
 
   /**
@@ -7,11 +7,7 @@ Page({
   data: {
 
   },
-dian: function () {
-    wx.reLaunch({
-      url: '../ri/zhi'
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

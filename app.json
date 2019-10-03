@@ -4,7 +4,8 @@
     "pages/logs/logs",
     "pages/home/shou",
     "pages/xiang/mu",
-    "pages/jian/li"
+    "pages/jian/li",
+    "pages/ri/zhi"
   ],
   "window": {
     "backgroundTextStyle": "light",

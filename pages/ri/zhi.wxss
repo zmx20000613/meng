@@ -1,0 +1,47 @@
+/* pages/ri/zhi.wxss */
+.box{
+  width: 100%;
+  height: auto;
+  background: paleturquoise;
+
+}
+.box1{
+  width: 100%;
+  height: 250rpx;
+
+}
+.cont{
+  width: 90%;
+  height: auto;
+  border: 1rpx solid paleturquoise;
+  margin: 0 auto;
+ 
+}
+.txt{
+   font-size: 27rpx;
+  margin-top: 68rpx;
+  color: red;
+}
+.box2{
+  width: 100%;
+  height: 300rpx;
+  
+}
+.txt1{
+  font-size: 27rpx;
+  margin-top: 15rpx;
+}
+.box3{
+  width: 100%;
+
+}
+.img2{
+  width: 200rpx;
+  height: 355rpx;
+  margin-left: 85rpx;
+  margin-top: 20rpx;
+}
+.img3{
+  width: 150rpx;
+  height: 150rpx;
+}
